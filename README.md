@@ -62,19 +62,19 @@ This project showcases my skills, projects, and experience while also including 
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home](public/screenshots/dashboard1.png)
+![Home](public/projects/dashboard1.png)
 
 ### 👩‍💻 About Page
-![About](public/screenshots/about1.png)
+![About](public/projects/about1.png)
 
-### 📁 Projects Page
-![Projects](public/screenshots/projects.png)
+### 📂 Projects Page
+![Projects](public/projects/projects1.png)
 
-### 📬 Contact Page
-![Contact](public/screenshots/contact1.png)
+### 📩 Contact Page
+![Contact](public/projects/contact.png)
 
 ### 🔐 Dashboard
-![Dashboard](public/screenshots/loginDashboard.png)
+![Dashboard](public/projects/loginDashboard.png)
 
 ---
 
