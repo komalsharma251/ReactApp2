@@ -71,7 +71,7 @@ This project showcases my skills, projects, and experience while also including 
 ![Projects](public/projects/projects1.png)
 
 ### 📩 Contact Page
-![Contact](public/projects/contact.png)
+![Contact](public/projects/contact1.png)
 
 ### 🔐 Dashboard
 ![Dashboard](public/projects/loginDashboard.png)
